@@ -1,0 +1,10 @@
+Package: logie
+Title: 工业工程中的物流规划
+Version: 0.1
+Authors@R: person("muzhi", "yang", email = "621038621@qq.com", role = c("aut", "cre"))
+Description: 用于工业工程中物流规划的不靠谱计算
+Depends: R (>= 3.4.2)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
